@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="Group3 1" width="237" height="237" viewBox="0 0 237 237" fill="none" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; max-height: 100%;">
+<g filter="url(#filter0_i_1_580)">
+<path d="M227.994 0.473877H0.474457V227.994H227.994V0.473877Z" stroke="black" stroke-width="0.1" stroke-miterlimit="10" stroke-dasharray="0,0,0,910.079345703125"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.1739130434782608s" values="0,0,0,910.079345703125; 
+          0,455.0396728515625,455.0396728515625,0; 
+          910.079345703125,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M76.1247 0.473877V227.994" stroke="black" stroke-width="0.1" stroke-miterlimit="10" stroke-dasharray="0,0,0,227.52012634277344"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.1739130434782608s" values="0,0,0,227.52012634277344; 
+          0,113.76006317138672,113.76006317138672,0; 
+          227.52012634277344,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M152.345 0.473877V227.994" stroke="black" stroke-width="0.1" stroke-miterlimit="10" stroke-dasharray="0,0,0,227.52012634277344"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.1739130434782608s" values="0,0,0,227.52012634277344; 
+          0,113.76006317138672,113.76006317138672,0; 
+          227.52012634277344,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M114.234 0.473877V227.994" stroke="black" stroke-width="0.1" stroke-miterlimit="10" stroke-dasharray="0,0,0,227.52012634277344"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.1739130434782608s" values="0,0,0,227.52012634277344; 
+          0,113.76006317138672,113.76006317138672,0; 
+          227.52012634277344,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M0.663086 152.344H228.183" stroke="black" stroke-width="0.1" stroke-miterlimit="10" stroke-dasharray="0,0,0,227.51991271972656"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.1739130434782608s" values="0,0,0,227.51991271972656; 
+          0,113.75995635986328,113.75995635986328,0; 
+          227.51991271972656,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M0.663086 76.1247H228.183" stroke="black" stroke-width="0.1" stroke-miterlimit="10" stroke-dasharray="0,0,0,227.51991271972656"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.1739130434782608s" values="0,0,0,227.51991271972656; 
+          0,113.75995635986328,113.75995635986328,0; 
+          227.51991271972656,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M0.663086 114.234H228.183" stroke="black" stroke-width="0.1" stroke-miterlimit="10" stroke-dasharray="0,0,0,227.51991271972656"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.1739130434782608s" values="0,0,0,227.51991271972656; 
+          0,113.75995635986328,113.75995635986328,0; 
+          227.51991271972656,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M0.474457 0.473877L227.994 227.994" stroke="black" stroke-width="0.1" stroke-miterlimit="10" stroke-dasharray="0,0,0,321.7616271972656"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.1739130434782608s" values="0,0,0,321.7616271972656; 
+          0,160.8808135986328,160.8808135986328,0; 
+          321.7616271972656,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M0.474457 227.994L227.994 0.473877" stroke="black" stroke-width="0.1" stroke-miterlimit="10" stroke-dasharray="0,0,0,321.7616271972656"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.1739130434782608s" values="0,0,0,321.7616271972656; 
+          0,160.8808135986328,160.8808135986328,0; 
+          321.7616271972656,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M114.234 161.634C140.413 161.634 161.634 140.412 161.634 114.234C161.634 88.0555 140.413 66.8339 114.234 66.8339C88.0562 66.8339 66.8345 88.0555 66.8345 114.234C66.8345 140.412 88.0562 161.634 114.234 161.634Z" stroke="black" stroke-width="0.1" stroke-miterlimit="10" stroke-dasharray="0,0,0,297.86456298828125"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.1739130434782608s" values="0,0,0,297.86456298828125; 
+          0,148.93228149414062,148.93228149414062,0; 
+          297.86456298828125,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M114.234 209.034C166.591 209.034 209.034 166.59 209.034 114.234C209.034 61.8773 166.591 19.4339 114.234 19.4339C61.8779 19.4339 19.4345 61.8773 19.4345 114.234C19.4345 166.59 61.8779 209.034 114.234 209.034Z" stroke="black" stroke-width="0.1" stroke-miterlimit="10" stroke-dasharray="0,0,0,595.7290649414062"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.1739130434782608s" values="0,0,0,595.7290649414062; 
+          0,297.8645324707031,297.8645324707031,0; 
+          595.7290649414062,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M190.074 38.7735H38.3945C27.9231 38.7735 19.4345 47.2622 19.4345 57.7335V171.493C19.4345 181.965 27.9231 190.453 38.3945 190.453H190.074C200.546 190.453 209.034 181.965 209.034 171.493V57.7335C209.034 47.2622 200.546 38.7735 190.074 38.7735Z" stroke="black" stroke-width="0.1" stroke-miterlimit="10" stroke-dasharray="0,0,0,650.0247192382812"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.1739130434782608s" values="0,0,0,650.0247192382812; 
+          0,325.0123596191406,325.0123596191406,0; 
+          650.0247192382812,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path opacity="0.2" d="M180.499 29.2935H47.9693C37.4456 29.2935 28.9145 37.8245 28.9145 48.3483V180.878C28.9145 191.402 37.4456 199.933 47.9693 199.933H180.499C191.023 199.933 199.554 191.402 199.554 180.878V48.3483C199.554 37.8245 191.023 29.2935 180.499 29.2935Z" fill="#FF00FF" stroke="black" stroke-width="0.3" stroke-miterlimit="10" stroke-dasharray="0,0,0,649.8615112304688"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.1739130434782608s" values="0,0,0,649.8615112304688; 
+          0,324.9307556152344,324.9307556152344,0; 
+          649.8615112304688,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M38.3945 38.7735V190.453C38.3945 200.925 46.8831 209.413 57.3545 209.413H171.114C181.586 209.413 190.074 200.925 190.074 190.453V38.7735C190.074 28.3022 181.586 19.8135 171.114 19.8135H57.3545C46.8831 19.8135 38.3945 28.3022 38.3945 38.7735Z" stroke="black" stroke-width="0.1" stroke-miterlimit="10" stroke-dasharray="0,0,0,650.0247192382812"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.1739130434782608s" values="0,0,0,650.0247192382812; 
+          0,325.0123596191406,325.0123596191406,0; 
+          650.0247192382812,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+</g>
+<rect width="237" height="237" stroke="black" stroke-dasharray="0,0,0,948"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.1739130434782608s" values="0,0,0,948; 
+          0,474,474,0; 
+          948,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></rect>
+<defs>
+<filter id="filter0_i_1_580" x="0.424454" y="0.423874" width="227.758" height="231.62" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feBlend>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+<feOffset dy="4"></feOffset>
+<feGaussianBlur stdDeviation="2"></feGaussianBlur>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"></feComposite>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_1_580"></feBlend>
+</filter>
+</defs>
+<setting>{"type":"direct","speed":23,"random":1,"shift":1,"size":1,"rupture":50}</setting></svg>
