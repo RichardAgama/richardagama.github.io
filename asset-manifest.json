@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/richardagama.github.io/static/css/main.0f67c7b1.css",
-    "main.js": "/richardagama.github.io/static/js/main.788f50e4.js",
-    "static/js/787.1540a978.chunk.js": "/richardagama.github.io/static/js/787.1540a978.chunk.js",
-    "static/media/c_BLUE_HOODIE.png": "/richardagama.github.io/static/media/c_BLUE_HOODIE.5c92cc3633f16c62c7ae.png",
-    "static/media/a_NY_HAT.jpeg": "/richardagama.github.io/static/media/a_NY_HAT.80a62fc52ae53bf49b55.jpeg",
-    "static/media/NIKE_STUDY_ONE_DEMO_9.png": "/richardagama.github.io/static/media/NIKE_STUDY_ONE_DEMO_9.83894d47f822b7ee15dc.png",
-    "static/media/Gridular-Regular.woff2": "/richardagama.github.io/static/media/Gridular-Regular.15744f2acb2b316a9594.woff2",
-    "static/media/VCR_OSD_MONO.woff2": "/richardagama.github.io/static/media/VCR_OSD_MONO.c27127111a28921bb777.woff2",
-    "static/media/grid.svg": "/richardagama.github.io/static/media/grid.3510bd522efff80854a17fb7df680190.svg",
-    "static/media/logo.svg": "/richardagama.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/richardagama.github.io/index.html",
-    "static/media/draw.svg": "/richardagama.github.io/static/media/draw.f98af3a9d536477ed7152899be09b24e.svg",
-    "main.0f67c7b1.css.map": "/richardagama.github.io/static/css/main.0f67c7b1.css.map",
-    "main.788f50e4.js.map": "/richardagama.github.io/static/js/main.788f50e4.js.map",
-    "787.1540a978.chunk.js.map": "/richardagama.github.io/static/js/787.1540a978.chunk.js.map"
+    "main.css": "/static/css/main.a22ed84b.css",
+    "main.js": "/static/js/main.9fe6b79e.js",
+    "static/js/787.1540a978.chunk.js": "/static/js/787.1540a978.chunk.js",
+    "static/media/c_BLUE_HOODIE.png": "/static/media/c_BLUE_HOODIE.5c92cc3633f16c62c7ae.png",
+    "static/media/a_NY_HAT.jpeg": "/static/media/a_NY_HAT.80a62fc52ae53bf49b55.jpeg",
+    "static/media/NIKE_STUDY_ONE_DEMO_9.png": "/static/media/NIKE_STUDY_ONE_DEMO_9.83894d47f822b7ee15dc.png",
+    "static/media/Gridular-Regular.woff2": "/static/media/Gridular-Regular.15744f2acb2b316a9594.woff2",
+    "static/media/VCR_OSD_MONO.woff2": "/static/media/VCR_OSD_MONO.c27127111a28921bb777.woff2",
+    "static/media/grid.svg": "/static/media/grid.3510bd522efff80854a17fb7df680190.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "static/media/draw.svg": "/static/media/draw.f98af3a9d536477ed7152899be09b24e.svg",
+    "main.a22ed84b.css.map": "/static/css/main.a22ed84b.css.map",
+    "main.9fe6b79e.js.map": "/static/js/main.9fe6b79e.js.map",
+    "787.1540a978.chunk.js.map": "/static/js/787.1540a978.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f67c7b1.css",
-    "static/js/main.788f50e4.js"
+    "static/css/main.a22ed84b.css",
+    "static/js/main.9fe6b79e.js"
   ]
 }
