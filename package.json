@@ -2,7 +2,7 @@
   "name": "react-transition",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://richardagama.github.io/richardagama.github.io",
+  "homepage": "https://richardagama.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
